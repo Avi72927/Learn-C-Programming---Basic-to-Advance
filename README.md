@@ -13,7 +13,7 @@ Contest with Exciting Prizes/n</H4></p>
 <img src="https://www.tutorialspoint.com/html/images/test.png" alt="Simply Easy Learning" width="200" height="80">
  
 
-<!--   <H2>Index Interface</H2><br> 
+   <H2>Index Interface</H2><br> 
 
     <img src="https://user-images.githubusercontent.com/99958741/188896810-ad130f66-eed9-48ef-9f52-6299fee85706.png" alt="Index Interface">
  
@@ -33,5 +33,5 @@ Contest with Exciting Prizes/n</H4></p>
 
     <img src="https://user-images.githubusercontent.com/99958741/188902938-f5a85073-1690-43d2-8ca3-2abf4d49ba58.png" alt="Exam Time">
     
--->
+
    

@@ -16,3 +16,8 @@ Contest with Exciting Prizes/n</H4></p>
 
 ![image](https://user-images.githubusercontent.com/99958741/188896810-ad130f66-eed9-48ef-9f52-6299fee85706.png)
 
+
+  <H2> Main Page<br>
+    
+    ![image](https://user-images.githubusercontent.com/99958741/188899213-3b6ed46b-6953-44fa-b206-27e4e80b3ed6.png)
+<H2>Notes<br>

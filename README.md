@@ -2,13 +2,13 @@
 Learn Basic to Advance C Programming Language 
 
 <H2> Available Features</>
-<p><H4>Learn C Programming Basic to Advance</p>
-High quality quiz
-400+ examples on C programming
+<p><H4>Learn C Programming Basic to Advance<br>
+High quality quiz<br>
+400+ examples on C programming<br>
 Basic to Advance C Notes
 Notepad
 150+ Patterns
-<p>Contest with Exciting Prizes/n</H4></p>
+Contest with Exciting Prizes/n</H4></p>
 
 
 Index Interface/n

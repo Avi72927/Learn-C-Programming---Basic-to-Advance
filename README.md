@@ -12,7 +12,8 @@ Contest with Exciting Prizes/n</H4></p>
 
 
 <H2>Index Interface</H2><br> 
-   ![image](https://user-images.githubusercontent.com/99958741/188896810-ad130f66-eed9-48ef-9f52-6299fee85706.png)
+   <img src="(https://user-images.githubusercontent.com/99958741/188896810-ad130f66-eed9-48ef-9f52-6299fee85706.png">Index Interface</img>
+   //(https://user-images.githubusercontent.com/99958741/188896810-ad130f66-eed9-48ef-9f52-6299fee85706.png)
 
 
 <H2> Main Page</H2><br>

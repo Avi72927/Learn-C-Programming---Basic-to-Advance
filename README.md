@@ -13,7 +13,7 @@ Contest with Exciting Prizes/n</H4></p>
 
 <H2>Index Interface</H2><br> 
 
- <img src="https://www.tutorialspoint.com/html/images/test.png" alt="Simply Easy Learning">
+ <img src="https://user-images.githubusercontent.com/99958741/188896810-ad130f66-eed9-48ef-9f52-6299fee85706.png" alt="Index Interface">
 
 
    <img src="(https://user-images.githubusercontent.com/99958741/188896810-ad130f66-eed9-48ef-9f52-6299fee85706.png">

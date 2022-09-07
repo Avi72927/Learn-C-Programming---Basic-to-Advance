@@ -10,7 +10,7 @@ Notepad<br>
 150+ Patterns<br>
 Contest with Exciting Prizes/n</H4></p>
 
-<img src="https://www.tutorialspoint.com/html/images/test.png" alt="Simply Easy Learning" width="200" height="80">
+
  
 
    <H2>Index Interface</H2><br> 
